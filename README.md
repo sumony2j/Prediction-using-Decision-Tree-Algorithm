@@ -1,6 +1,6 @@
 # Prediction On Iris Dataset Using DecisionTreeClassifier Algorithm 
 
-*This project Create the Decision Tree classifier and visualize it graphically on Iris Dataset*
+*This project creates the Decision Tree classifier on Iris Dataset and visualize it graphically*
 
 ### Pre-requisite
 
