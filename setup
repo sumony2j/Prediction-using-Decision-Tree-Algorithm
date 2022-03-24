@@ -7,9 +7,10 @@ sudo apt -y upgrade
 sudo apt -y install python3
 sudo apt -y install python3-pip
 pip3 install sklearn
+pip3 install numpy
 pip3 install pandas
 pip3 install seaborn
 pip3 install matplotlib
 pip3 install pandas_profiling
-pip3 install pip install jupyter
+pip3 install jupyter
 pip3 install jupyterthemes
