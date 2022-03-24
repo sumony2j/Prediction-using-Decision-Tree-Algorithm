@@ -4,7 +4,7 @@
 
 ### Pre-requisite
 
-1. **System :** *Ubuntu 20.04 LTS*
+1. **System :** *Ubuntu*
 
 2. **Install Required Packages** : *Run the setup script*
 
